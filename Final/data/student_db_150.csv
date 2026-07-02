@@ -1,0 +1,151 @@
+ID,Name,Department,Year,CGPA,Skills,Certifications,Previous_Events,Attendance,Average_Marks,Scholarship,Placement_Eligible
+ST101,Gayathri S,AI&DS,IV,9.0,"IoT, GenAI",IBM ML,Paper Presentation,99%,91,Yes,Yes
+ST102,Aishwarya Joseph,ECE,IV,7.6,"Java, C++",Arduino,SIH 2024,97%,78,Yes,No
+ST103,Manoj Iyer,ECE,III,9.1,"Data Analytics, Python",Microsoft AI,SIH 2025,91%,93,Yes,Yes
+ST104,Meena Rao,IT,III,7.6,"JavaScript, UI/UX",NPTEL Python,SIH 2024,95%,77,Yes,No
+ST105,Mohammed Raj,CSE,III,9.6,"Python, JavaScript",Arduino,Placement Drive,85%,96,Yes,Yes
+ST106,Suresh K,AI&DS,II,8.6,"NLP, JavaScript",Microsoft AI,Webathon,98%,87,No,Yes
+ST107,Manoj Das,IT,IV,9.7,"Robotics, OpenCV",AWS AI,GenAI Challenge,99%,99,Yes,Yes
+ST108,Sanjay Sharma,ECE,IV,8.7,"Spring Boot, GenAI",Google UX,Hackathon,95%,88,Yes,Yes
+ST109,Preethi Iyer,AI&DS,II,9.8,"LLM, C++",IBM AI,GenAI Challenge,90%,99,Yes,Yes
+ST110,Aishwarya N,AI&DS,IV,9.1,"Embedded C, Data Analytics",IBM ML,Robo Race,88%,90,Yes,Yes
+ST111,Mohammed Raj,ECE,III,7.8,"JavaScript, ML",Cisco IoT,AI Challenge,93%,80,No,No
+ST112,Mohammed Das,CSE,III,9.4,"HTML, Figma",Google AI,Webathon,90%,96,Yes,Yes
+ST113,Aishwarya Joseph,ECE,IV,7.8,"Python, IoT",Google AI,Web Challenge,87%,77,No,No
+ST114,Swetha Singh,AI&DS,II,9.4,"Robotics, C++",NPTEL Python,Coding Contest,93%,95,Yes,Yes
+ST115,Yogesh R,IT,II,8.1,"HTML, CSS",Microsoft AI,Placement Drive,90%,82,No,Yes
+ST116,Deepika P,IT,III,9.0,"OpenCV, CSS",Meta JS,Coding Contest,94%,91,Yes,Yes
+ST117,Varun Raj,CSE,IV,8.7,"HTML, ML",Oracle Java,Coding Contest,99%,86,Yes,Yes
+ST118,Lavanya Singh,ECE,IV,7.6,"Node.js, NLP",Microsoft AI,CodeFest,89%,78,No,No
+ST119,Karthik P,AI&DS,II,7.7,"ML, Data Analytics",Meta JS,CodeSprint,90%,78,No,No
+ST120,Ramesh Rao,ECE,II,7.9,"Data Analytics, JavaScript",Arduino,HackX,99%,79,Yes,Yes
+ST121,Kishore K,AI&DS,IV,7.7,"Data Analytics, UI/UX",AWS AI,Coding Contest,88%,79,No,Yes
+ST122,Mohammed P,IT,II,9.1,"Java, OpenCV",NPTEL Python,AI Expo,98%,92,Yes,Yes
+ST123,Kavin L,AI&DS,II,7.9,"Embedded C, Node.js",Arduino,AI Challenge,94%,79,Yes,No
+ST124,Gayathri P,AI&DS,III,9.2,"SQL, Figma",Google AI,Design Sprint,98%,92,Yes,Yes
+ST125,Monisha Raj,ECE,IV,8.1,"C++, Embedded C",Coursera CV,Coding Contest,98%,82,No,Yes
+ST126,Preethi Raj,AI&DS,IV,9.7,"ML, CSS",IBM AI,AI Symposium,91%,96,Yes,Yes
+ST127,Deepika Sharma,CSE,IV,7.6,"Data Analytics, OpenCV",Google UX,AI Symposium,94%,75,No,Yes
+ST128,Kishore Kumar,ECE,IV,8.2,"Data Analytics, NLP",Google UX,GenAI Challenge,98%,83,Yes,Yes
+ST129,Rohit M,ECE,III,8.5,"GenAI, CSS",Google UX,CodeSprint,89%,87,Yes,Yes
+ST130,Ramesh Singh,CSE,IV,7.9,"C++, Python",Oracle Java,SIH 2025,98%,80,No,No
+ST131,Pooja K,CSE,II,9.3,"GenAI, C++",Google UX,CodeSprint,94%,93,Yes,Yes
+ST132,Yogesh Rao,IT,IV,9.8,"JavaScript, SQL",Microsoft AI,CodeFest,89%,97,Yes,Yes
+ST133,Rahul K,AI&DS,IV,9.5,"Robotics, JavaScript",Google UX,HackX,98%,96,Yes,Yes
+ST134,Rahul M,ECE,II,9.4,"NLP, Robotics",Coursera CV,Robo Race,99%,93,Yes,Yes
+ST135,Rahul Babu,ECE,IV,8.7,"LLM, NLP",Microsoft AI,Design Sprint,86%,87,Yes,Yes
+ST136,Deepika Iyer,AI&DS,III,8.0,"IoT, CSS",Google UX,Placement Drive,92%,81,No,Yes
+ST137,Harini L,CSE,II,9.4,"HTML, JavaScript",Oracle Java,Webathon,98%,95,Yes,Yes
+ST138,Aishwarya Iyer,ECE,II,8.7,"JavaScript, Robotics",Google Cloud,Coding Contest,99%,89,Yes,Yes
+ST139,Pooja N,AI&DS,III,8.2,"OpenCV, HTML",Google Cloud,AI Expo,93%,83,Yes,Yes
+ST140,Karthik M,CSE,III,8.8,"HTML, CSS",Meta Frontend,CodeFest,91%,87,Yes,Yes
+ST141,Vishal N,AI&DS,IV,8.7,"JavaScript, Data Analytics",Meta Frontend,Paper Presentation,93%,88,Yes,Yes
+ST142,Nisha Sharma,AI&DS,III,8.6,"LLM, CSS",IBM ML,HackX,97%,88,No,Yes
+ST143,Suresh Devi,ECE,III,9.1,"Spring Boot, GenAI",IBM AI,HackX,89%,93,Yes,Yes
+ST144,Preethi K,ECE,IV,7.8,"LLM, GenAI",IBM AI,HackX,94%,78,No,Yes
+ST145,Bharath L,IT,III,9.0,"Python, Java",AWS AI,Project Expo,93%,91,Yes,Yes
+ST146,Akash Babu,ECE,II,8.3,"JavaScript, LLM",Google UX,GenAI Challenge,90%,84,No,Yes
+ST147,Naveen Babu,ECE,IV,9.2,"IoT, Python",AWS AI,Webathon,86%,93,Yes,Yes
+ST148,Preethi N,CSE,II,8.1,"Data Analytics, React",IBM ML,SIH 2025,93%,83,No,Yes
+ST149,Suresh Das,ECE,IV,8.5,"LLM, OpenCV",Cisco IoT,CodeSprint,92%,86,No,Yes
+ST150,Anitha Rao,ECE,IV,8.9,"SQL, Node.js",Google UX,Hackathon,91%,88,Yes,Yes
+ST151,Akash Rao,AI&DS,IV,9.8,"SQL, DSA",IBM ML,Placement Drive,89%,100,Yes,Yes
+ST152,Pooja N,AI&DS,IV,9.7,"Figma, React",Meta JS,CodeFest,92%,96,Yes,Yes
+ST153,Deepika Kumar,ECE,II,7.6,"SQL, Embedded C",Oracle Java,Robo Race,89%,77,No,Yes
+ST154,Preethi Joseph,IT,IV,8.2,"IoT, DSA",IBM ML,SIH 2024,86%,81,No,Yes
+ST155,Harish M,IT,II,7.6,"DSA, UI/UX",Coursera CV,Robo Race,97%,76,No,No
+ST156,Shalini Ali,IT,III,9.6,"Java, Figma",Arduino,Web Challenge,90%,95,Yes,Yes
+ST157,Divya Singh,IT,II,8.6,"Node.js, LLM",AWS AI,CodeSprint,88%,88,No,Yes
+ST158,Shalini Kumar,IT,III,8.9,"ML, SQL",Arduino,Kaggle Competition,94%,89,Yes,Yes
+ST159,Priya Rao,AI&DS,IV,9.2,"Data Analytics, Node.js",NPTEL Python,CodeFest,95%,94,Yes,Yes
+ST160,Arun S,AI&DS,IV,9.2,"NLP, Embedded C",IBM AI,Placement Drive,86%,91,Yes,Yes
+ST161,Mohammed Joseph,IT,III,8.7,"OpenCV, SQL",Meta Frontend,Placement Drive,93%,88,Yes,Yes
+ST162,Priya Raj,ECE,IV,9.1,"Robotics, IoT",Coursera CV,Project Expo,89%,90,Yes,Yes
+ST163,Manoj S,AI&DS,III,9.3,"OpenCV, DSA",Cisco IoT,GenAI Challenge,92%,92,Yes,Yes
+ST164,Varun P,AI&DS,IV,9.3,"IoT, TensorFlow",Coursera CV,SIH 2025,99%,93,Yes,Yes
+ST165,Kavin Rao,AI&DS,II,8.1,"CSS, IoT",NPTEL Python,SIH 2025,94%,80,No,Yes
+ST166,Kavin Raj,CSE,III,7.6,"React, C++",Cisco IoT,Webathon,88%,76,No,Yes
+ST167,Kishore Das,CSE,III,8.3,"LLM, CSS",Oracle Java,HackX,97%,84,Yes,Yes
+ST168,Karthik Das,AI&DS,III,8.2,"Embedded C, GenAI",Meta JS,Hackathon,93%,83,No,Yes
+ST169,Harini N,AI&DS,III,9.4,"CSS, HTML",AWS AI,Coding Contest,92%,96,Yes,Yes
+ST170,Divya Ali,ECE,II,7.7,"NLP, UI/UX",Arduino,AI Expo,86%,77,No,Yes
+ST171,Aishwarya K,CSE,II,8.8,"ML, DSA",Google AI,GenAI Challenge,99%,89,Yes,Yes
+ST172,Keerthana Das,CSE,IV,9.0,"DSA, Embedded C",Arduino,Hackathon,93%,92,Yes,Yes
+ST173,Lavanya P,IT,III,7.9,"HTML, SQL",Cisco IoT,SIH 2024,87%,80,No,Yes
+ST174,Nisha Singh,IT,IV,9.2,"Data Analytics, HTML",Arduino,HackX,96%,94,Yes,Yes
+ST175,Yogesh Devi,AI&DS,II,7.8,"UI/UX, Figma",Arduino,Design Sprint,96%,78,No,No
+ST176,Sneha Singh,IT,IV,8.0,"DSA, React",Coursera CV,Coding Contest,97%,82,Yes,Yes
+ST177,Arjun Iyer,ECE,II,9.5,"CSS, Node.js",IBM AI,Design Sprint,93%,95,Yes,Yes
+ST178,Priya Babu,CSE,IV,7.5,"Data Analytics, Python",Google UX,AI Symposium,89%,74,No,Yes
+ST179,Lavanya Iyer,ECE,II,9.7,"UI/UX, OpenCV",Microsoft AI,Hackathon,90%,98,Yes,Yes
+ST180,Sathish R,AI&DS,IV,8.9,"SQL, React",Cisco IoT,Webathon,87%,91,Yes,Yes
+ST181,Sathish V,CSE,II,9.4,"JavaScript, HTML",AWS AI,HackX,95%,95,Yes,Yes
+ST182,Aishwarya Kumar,ECE,IV,9.4,"C++, TensorFlow",IBM ML,Hackathon,88%,96,Yes,Yes
+ST183,Mohammed Ali,ECE,II,9.3,"UI/UX, SQL",Google AI,AI Expo,96%,93,Yes,Yes
+ST184,Pooja Das,IT,II,9.2,"React, Spring Boot",Coursera CV,Project Expo,96%,93,Yes,Yes
+ST185,Pooja Rao,IT,II,9.4,"CSS, NLP",Google AI,GenAI Challenge,93%,95,Yes,Yes
+ST186,Deepika Devi,CSE,II,7.7,"HTML, CSS",Google Cloud,AI Symposium,87%,77,No,Yes
+ST187,Naveen Kumar,AI&DS,II,9.3,"Figma, Embedded C",NPTEL Python,SIH 2025,85%,92,Yes,Yes
+ST188,Kavin P,CSE,IV,7.9,"HTML, NLP",Google UX,Design Sprint,94%,80,No,No
+ST189,Deepika Das,AI&DS,II,9.3,"HTML, LLM",Meta JS,AI Symposium,90%,92,Yes,Yes
+ST190,Rahul Ali,IT,III,9.4,"NLP, ML",Google Cloud,Kaggle Competition,94%,94,Yes,Yes
+ST191,Sathish P,ECE,II,9.6,"Figma, GenAI",Google UX,Robo Race,94%,95,Yes,Yes
+ST192,Ajay Singh,CSE,III,8.1,"React, Java",Arduino,AI Challenge,97%,80,No,Yes
+ST193,Pooja R,IT,III,7.9,"IoT, GenAI",Meta JS,GenAI Challenge,87%,79,No,No
+ST194,Gayathri Ali,ECE,IV,8.1,"React, ML",Coursera CV,Hackathon,88%,82,Yes,Yes
+ST195,Pooja Ali,AI&DS,III,8.3,"CSS, TensorFlow",Cisco IoT,Project Expo,87%,85,No,Yes
+ST196,Harini N,IT,II,8.7,"Java, ML",Coursera CV,SIH 2025,91%,86,Yes,Yes
+ST197,Nisha V,AI&DS,IV,9.5,"Data Analytics, SQL",Meta JS,Kaggle Competition,86%,97,Yes,Yes
+ST198,Sathish Raj,CSE,IV,8.1,"OpenCV, Python",Google AI,Design Sprint,99%,80,Yes,Yes
+ST199,Kavin Kumar,CSE,III,8.4,"C++, TensorFlow",Meta Frontend,CodeFest,90%,84,Yes,Yes
+ST200,Harini M,CSE,III,8.9,"SQL, Spring Boot",IBM AI,CodeFest,96%,90,Yes,Yes
+ST201,Dinesh Das,CSE,IV,9.7,"TensorFlow, Java",Oracle Java,Web Challenge,85%,99,Yes,Yes
+ST202,Abishek Prakash,CSE,II,9.5,"UI/UX, NLP",IBM AI,Design Sprint,86%,97,Yes,Yes
+ST203,Kishore Iyer,AI&DS,II,7.9,"C++, SQL",Meta JS,Web Challenge,96%,80,No,No
+ST204,Rohit L,CSE,IV,7.8,"Robotics, DSA",NPTEL Python,AI Challenge,92%,77,Yes,No
+ST205,Swetha Singh,CSE,III,9.5,"GenAI, JavaScript",Meta JS,AI Expo,97%,94,Yes,Yes
+ST206,Yogesh Kumar,AI&DS,III,8.1,"NLP, SQL",IBM ML,Coding Contest,88%,82,Yes,Yes
+ST207,Ramesh Prakash,ECE,IV,8.4,"TensorFlow, SQL",NPTEL Python,Paper Presentation,90%,84,No,Yes
+ST208,Lavanya P,AI&DS,III,9.3,"CSS, GenAI",Meta Frontend,Hackathon,86%,93,Yes,Yes
+ST209,Divya Babu,IT,IV,9.2,"HTML, LLM",Google UX,Robo Race,95%,94,Yes,Yes
+ST210,Monisha Sharma,AI&DS,IV,9.0,"DSA, Java",AWS AI,SIH 2024,92%,92,Yes,Yes
+ST211,Gayathri Babu,AI&DS,IV,9.5,"Figma, OpenCV",Google AI,Webathon,94%,95,Yes,Yes
+ST212,Monisha Raj,IT,II,9.7,"OpenCV, CSS",Google Cloud,CodeFest,99%,97,Yes,Yes
+ST213,Akash V,IT,IV,8.6,"IoT, SQL",Google Cloud,AI Challenge,85%,85,No,Yes
+ST214,Dinesh M,IT,III,9.8,"React, Node.js",IBM AI,Design Sprint,98%,99,Yes,Yes
+ST215,Kavin N,IT,IV,7.8,"HTML, DSA",Arduino,Coding Contest,90%,80,No,No
+ST216,Preethi K,IT,III,8.7,"SQL, Python",Arduino,AI Symposium,93%,86,Yes,Yes
+ST217,Vishal Raj,IT,II,8.6,"HTML, Python",Google AI,GenAI Challenge,96%,88,No,Yes
+ST218,Sathish V,CSE,III,8.7,"OpenCV, Java",Arduino,Robo Race,92%,86,Yes,Yes
+ST219,Rahul Prakash,CSE,III,8.8,"Node.js, UI/UX",Arduino,Webathon,88%,90,Yes,Yes
+ST220,Arjun Prakash,IT,III,8.1,"OpenCV, Embedded C",IBM AI,Placement Drive,99%,82,No,Yes
+ST221,Anitha R,IT,III,9.5,"SQL, TensorFlow",Google Cloud,Hackathon,93%,95,Yes,Yes
+ST222,Nisha K,ECE,III,8.5,"IoT, LLM",Google Cloud,CodeFest,95%,86,No,Yes
+ST223,Sathish M,IT,IV,8.1,"CSS, Figma",Google AI,Paper Presentation,86%,82,No,Yes
+ST224,Aishwarya Singh,AI&DS,III,9.0,"GenAI, JavaScript",NPTEL Python,Design Sprint,91%,90,Yes,Yes
+ST225,Sneha Raj,ECE,II,9.0,"Figma, ML",Cisco IoT,Placement Drive,97%,92,Yes,Yes
+ST226,Dinesh S,CSE,II,9.3,"NLP, TensorFlow",Google UX,HackX,88%,92,Yes,Yes
+ST227,Preethi Rao,CSE,II,8.7,"Embedded C, NLP",Google UX,HackX,93%,86,Yes,Yes
+ST228,Rohit Das,AI&DS,III,8.3,"Python, ML",Microsoft AI,AI Challenge,97%,83,No,Yes
+ST229,Akash Babu,ECE,IV,7.9,"CSS, Spring Boot",AWS AI,AI Expo,98%,78,No,No
+ST230,Deepika P,AI&DS,III,7.8,"Embedded C, ML",Google AI,HackX,94%,78,No,No
+ST231,Monisha Iyer,IT,III,7.7,"HTML, Java",Microsoft AI,SIH 2025,91%,77,Yes,Yes
+ST232,Rohit V,ECE,II,9.1,"Data Analytics, NLP",AWS AI,HackX,95%,93,Yes,Yes
+ST233,Abishek L,CSE,IV,9.1,"Embedded C, JavaScript",Cisco IoT,Web Challenge,97%,92,Yes,Yes
+ST234,Abishek M,AI&DS,IV,8.8,"Figma, Java",Arduino,Placement Drive,90%,89,Yes,Yes
+ST235,Harini Sharma,AI&DS,II,7.7,"ML, Node.js",NPTEL Python,Web Challenge,90%,78,No,Yes
+ST236,Arun Iyer,CSE,IV,7.7,"Figma, LLM",IBM ML,Web Challenge,89%,76,No,No
+ST237,Monisha R,AI&DS,IV,9.6,"Robotics, Data Analytics",Oracle Java,Placement Drive,93%,97,Yes,Yes
+ST238,Swetha Devi,ECE,II,8.7,"DSA, GenAI",Cisco IoT,AI Expo,95%,89,Yes,Yes
+ST239,Meena Singh,IT,IV,8.3,"NLP, LLM",IBM ML,Coding Contest,86%,83,No,Yes
+ST240,Deepika Prakash,AI&DS,II,8.9,"Embedded C, Figma",Oracle Java,SIH 2025,95%,88,Yes,Yes
+ST241,Karthik Babu,CSE,II,9.5,"JavaScript, Robotics",Coursera CV,AI Expo,89%,96,Yes,Yes
+ST242,Suresh Singh,AI&DS,II,9.1,"LLM, JavaScript",Google UX,Webathon,85%,90,Yes,Yes
+ST243,Manoj V,IT,IV,8.8,"Python, NLP",Microsoft AI,Project Expo,88%,87,Yes,Yes
+ST244,Kavin P,IT,II,9.6,"GenAI, ML",Cisco IoT,SIH 2025,92%,97,Yes,Yes
+ST245,Anitha Babu,CSE,III,7.9,"Embedded C, ML",IBM ML,Paper Presentation,89%,79,No,Yes
+ST246,Gayathri R,CSE,II,8.0,"JavaScript, LLM",Microsoft AI,Coding Contest,97%,82,Yes,Yes
+ST247,Kavin N,ECE,II,7.8,"TensorFlow, HTML",Oracle Java,HackX,88%,79,No,Yes
+ST248,Vishal L,ECE,II,8.3,"Embedded C, Robotics",Microsoft AI,AI Challenge,95%,82,No,Yes
+ST249,Sneha Devi,CSE,IV,8.1,"JavaScript, Robotics",IBM AI,SIH 2024,86%,82,No,Yes
+ST250,Yogesh Sharma,AI&DS,IV,9.3,"Embedded C, Node.js",Meta JS,Paper Presentation,87%,95,Yes,Yes

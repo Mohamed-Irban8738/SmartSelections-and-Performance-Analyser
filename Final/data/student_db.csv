@@ -1,0 +1,28 @@
+ID,Name,Department,Year,CGPA,Skills,Certifications,Previous_Events,Attendance,Average_Marks,Scholarship,Placement_Eligible
+ST101,Rahul Sharma,AI&DS,III,9.1,"Python, ML",Google AI,SIH 2025,96%,91.0,Yes,Yes
+ST102,Priya N,CSE,III,8.9,"Java, DSA",Oracle Java,CodeFest,95%,89.0,Yes,Yes
+ST103,Arjun Kumar,AI&DS,II,8.7,"Python, TensorFlow",IBM AI,HackX,93%,87.0,No,Yes
+ST104,Sneha R,IT,III,8.4,"UI/UX, Figma",Google UX,Paper Presentation,92%,84.0,Yes,Yes
+ST105,Karthik M,ECE,IV,8.0,"IoT, Embedded C",Cisco IoT,Project Expo,90%,80.0,No,Yes
+ST106,Divya S,AI&DS,II,9.3,"Python, NLP",Google Cloud,SIH 2024,98%,93.0,Yes,Yes
+ST107,Naveen K,CSE,III,8.5,"C++, Java",HackerRank,Coding Contest,91%,85.0,No,Yes
+ST108,Keerthana P,AI&DS,III,9.0,"ML, SQL",IBM Data Science,AI Challenge,96%,90.0,Yes,Yes
+ST109,Vishal R,IT,II,7.8,"HTML, CSS",Meta Frontend,Web Design,88%,78.0,No,No
+ST110,Akash S,CSE,IV,8.8,"Java, Spring Boot",Oracle Java,Placement Drive,95%,88.0,Yes,Yes
+ST111,Monisha T,AI&DS,III,8.9,"Python, Deep Learning",AWS AI,Kaggle Competition,97%,89.0,Yes,Yes
+ST112,Harish V,ECE,III,7.9,Robotics,Arduino,Robo Race,90%,79.0,No,Yes
+ST113,Gayathri L,AI&DS,II,9.2,"ML, Data Analytics",IBM AI,SIH 2025,97%,92.0,Yes,Yes
+ST114,Sanjay R,CSE,III,8.3,"Python, SQL",Google Data Analytics,Coding Contest,91%,83.0,No,Yes
+ST115,Lavanya K,IT,II,8.6,"React, Node.js",Meta Frontend,Webathon,93%,86.0,Yes,Yes
+ST116,Dinesh M,AI&DS,III,8.1,"Python, OpenCV",Coursera CV,AI Expo,90%,81.0,No,Yes
+ST117,Nisha P,CSE,IV,9.0,"Java, DSA",Oracle Java,Hackathon,98%,90.0,Yes,Yes
+ST118,Punas,ECE,III,7.7,IoT,Cisco IoT,Project Expo,87%,77.0,No,No
+ST119,Aishwarya R,AI&DS,III,9.4,"Python, GenAI",Google AI,GenAI Challenge,99%,94.0,Yes,Yes
+ST120,Mohammed A,CSE,II,8.5,"C, Python",NPTEL Python,CodeSprint,92%,85.0,No,Yes
+ST121,Bharath S,AI&DS,III,8.8,Machine Learning,IBM ML,AI Symposium,95%,88.0,Yes,Yes
+ST122,Preethi V,IT,III,8.4,UI/UX,Google UX,Design Sprint,91%,84.0,Yes,Yes
+ST123,Arun Prakash,CSE,II,8.2,JavaScript,Meta JS,Web Challenge,89%,82.0,No,Yes
+ST124,Meena R,AI&DS,IV,9.5,"Python, LLM",Microsoft AI,SIH 2025,99%,95.0,Yes,Yes
+ST125,Suresh K,ECE,III,7.6,Embedded C,Cisco,Embedded Expo,86%,76.0,No,No
+1,john,CSE,III,7.5,Python,SIH 2026,SIH 2025,84%,90.0,No,Yes
+ST987,ghbnj,AI&DS,III,9.0,gbh,hj,ygubhi,90%,90.0,No,Yes
